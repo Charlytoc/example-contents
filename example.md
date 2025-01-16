@@ -2,5 +2,5 @@
 title: "Example"
 description: "This is an example description."
 ---
-
-This is an example. To saveee
+# Welcome to the course
+This is an example
